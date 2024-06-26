@@ -1,4 +1,4 @@
-# Hosted URL - https://sandeep64s.github.io/HabitTracker/
+# Hosted URL - https://habittracker-3476.onrender.com
 
 This is a Habit Tracker  Project which is built using Nodejs, Ejs , CSS, Javascript , Bootstrap
 
